@@ -56,7 +56,7 @@ Here are a few projects that I'm proud of:
 ## ![image](https://github.com/user-attachments/assets/491f8bd7-c732-4f74-9570-308321672625) Certificate
 
 
-[https://upskill.us.qwasar.io/certificates/MTM0Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTIxZDY=]       Pre-Season
+https://upskill.us.qwasar.io/certificates/MTM0Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTIxZDY=       Pre-Season
 
 [https://upskill.us.qwasar.io/certificates/MTIwMy1ib3pkYXhvdl9qLW1hci0yMDIxLTExLWRmZDc=]       Arc-1
 
