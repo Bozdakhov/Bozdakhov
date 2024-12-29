@@ -70,6 +70,7 @@ https://upskill.us.qwasar.io/certificates/MTI1NC1ib3pkYXhvdl9qLW1heS0yMDIxLTIwLT
 
 https://upskill.us.qwasar.io/certificates/MTQxOC1ib3pkYXhvdl9qLWZlYi0yMDIyLTA2LWYyMmQ=       Java-Full-Stack
 
+https://upskill.us.qwasar.io/profile#
 
 ## 🌱 Currently Learning
 
