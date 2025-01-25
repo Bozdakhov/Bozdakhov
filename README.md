@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** PHP, JavaScript, Java, Ruby, C++
+- **Languages:** PHP, JavaScript, Java, Ruby, C
 - **Frameworks:** Laravel, React, Node.js, Ruby on Rails, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, Docker, VS Code, Web Storm, Postman, Swagger,
+- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB
 
 ## 🚀 Projects
 
@@ -35,13 +35,13 @@ Enhance [area, e.g., "team collaboration and productivity."]
 
 Built using modern tools and frameworks:
 
-Frontend: [e.g., React, Vue.js]
+Frontend: [HTML, CSS, Bootstrap 5, TailWindCSS, React, Vue.js]
 
-Backend: [e.g., Node.js, Django]
+Backend: [Laravel 11, Ruby on Rails, Node.js]
 
-Database: [e.g., MongoDB, PostgreSQL]
+Database: [MY SQL, MongoDB, PostgreSQL]
 
-Other Tools: [e.g., Docker, Redis]
+Other Tools: [Open Server, Docker, GitBash, Swagger, Postman]
 
 Here are a few projects that I'm proud of:
 
@@ -76,7 +76,7 @@ https://upskill.us.qwasar.io/profile#
 
 I'm currently diving deeper into:
 
-- Machine Learning and AI
+- Laravel 11
 - Cloud Computing with AWS and Azure
 - Advanced algorithms and data structures
 
