@@ -109,11 +109,11 @@ When I'm not coding, you can find me:
 - 
 
 
-![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bozdakhov&theme=blue-green)
 
-![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bozdakhov&theme=blue-green)
 
-![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozdakhov&theme=blue-green)
 
 
 
