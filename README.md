@@ -68,21 +68,21 @@ Here are a few projects that I'm proud of:
 ## ![image](https://github.com/user-attachments/assets/491f8bd7-c732-4f74-9570-308321672625) Certificate
 
 
-https://upskill.us.qwasar.io/certificates/MTM0Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTIxZDY=       Pre-Season
+![certificate](https://upskill.us.qwasar.io/certificates/MTM0Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTIxZDY=).       Pre-Season
 
-https://upskill.us.qwasar.io/certificates/MTIwMy1ib3pkYXhvdl9qLW1hci0yMDIxLTExLWRmZDc=       Arc-1
+![certificate](https://upskill.us.qwasar.io/certificates/MTIwMy1ib3pkYXhvdl9qLW1hci0yMDIxLTExLWRmZDc=).       Arc-1
 
-https://upskill.us.qwasar.io/certificates/MTIwOC1ib3pkYXhvdl9qLW1hci0yMDIxLTExLTUwYmY=        Arc-2
+![certificate](https://upskill.us.qwasar.io/certificates/MTIwOC1ib3pkYXhvdl9qLW1hci0yMDIxLTExLTUwYmY=).        Arc-2
 
-https://upskill.us.qwasar.io/certificates/MTM1Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTExOTM=        Full-Stack
+![certificate](https://upskill.us.qwasar.io/certificates/MTM1Ni1ib3pkYXhvdl9qLWp1bC0yMDIxLTMwLTExOTM=).        Full-Stack
 
-https://upskill.us.qwasar.io/certificates/MTI1Mi1ib3pkYXhvdl9qLW1heS0yMDIxLTIwLTYzOWI=       Front-End
+![certificate](https://upskill.us.qwasar.io/certificates/MTI1Mi1ib3pkYXhvdl9qLW1heS0yMDIxLTIwLTYzOWI=).       Front-End
 
-https://upskill.us.qwasar.io/certificates/MTI1NC1ib3pkYXhvdl9qLW1heS0yMDIxLTIwLTBhOTE=        Back-End
+![certificate](https://upskill.us.qwasar.io/certificates/MTI1NC1ib3pkYXhvdl9qLW1heS0yMDIxLTIwLTBhOTE=).        Back-End
 
-https://upskill.us.qwasar.io/certificates/MTQxOC1ib3pkYXhvdl9qLWZlYi0yMDIyLTA2LWYyMmQ=       Java-Full-Stack
+![certificate](https://upskill.us.qwasar.io/certificates/MTQxOC1ib3pkYXhvdl9qLWZlYi0yMDIyLTA2LWYyMmQ=).       Java-Full-Stack
 
-https://upskill.us.qwasar.io/profile#
+![QWASAR PLATFORM](https://upskill.us.qwasar.io/profile#).
 
 ## 🌱 Currently Learning
 
