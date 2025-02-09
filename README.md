@@ -107,7 +107,7 @@ When I'm not coding, you can find me:
 - Reading sci-fi novels
 - Experimenting with new cooking recipes
 - 
-![Bozdakhov's GitHub stats](https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename})
+
 
 ![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
@@ -115,7 +115,7 @@ When I'm not coding, you can find me:
 
 ![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
-![Bozdakhov's GitHub stats](https://starchart.cc/{username}/{repo}.svg)
+
 
 Feel free to explore my repositories and reach out if you want to collaborate on any project or just have a chat!
 
@@ -123,22 +123,18 @@ Feel free to explore my repositories and reach out if you want to collaborate on
 ![Bozdakhov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bozdakhov&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozdakhov&layout=compact&theme=radical)
-- Faworites
--
-        - <img src="https://aleen42.github.io/badges/src/lamborghini.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/bugatti.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/porsche.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/tesla.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/ferrari.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/toyota.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/mitsubishi.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/maserati.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/marussia.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/koenigsegg.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/bmw.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/land_rover.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg"/>
-	- <img src="https://aleen42.github.io/badges/src/audi.svg"/>
+- Faworites 
+
+- <img src="https://aleen42.github.io/badges/src/lamborghini.svg"/>
+- <img src="https://aleen42.github.io/badges/src/bugatti.svg"/>
+- <img src="https://aleen42.github.io/badges/src/porsche.svg"/>
+- <img src="https://aleen42.github.io/badges/src/tesla.svg"/>
+- <img src="https://aleen42.github.io/badges/src/ferrari.svg"/>
+- <img src="https://aleen42.github.io/badges/src/koenigsegg.svg"/>
+- <img src="https://aleen42.github.io/badges/src/bmw.svg"/>
+- <img src="https://aleen42.github.io/badges/src/land_rover.svg"/>
+- <img src="https://aleen42.github.io/badges/src/mercedes_benz.svg"/>
+
 <!---https://github.com/antistereotip/Badges-for-GitHub
 Bozdakhov/Bozdakhov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
