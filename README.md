@@ -123,7 +123,6 @@ Feel free to explore my repositories and reach out if you want to collaborate on
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozdakhov&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bozdakhov&theme=blue-green).
 - Faworites 
 
 - <img src="https://aleen42.github.io/badges/src/lamborghini.svg"/>
